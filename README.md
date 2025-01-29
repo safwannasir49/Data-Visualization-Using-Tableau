@@ -1,5 +1,5 @@
 # DATA-VISUALIZATION-Using-Tableau
-<img src = "Tableau/Image.png">
+<img src = "Tableau/Image.pn>
 ## Problem Statement
 
 ### 1. Retrieve the sales dataset
