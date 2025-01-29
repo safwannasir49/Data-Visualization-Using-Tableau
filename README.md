@@ -19,7 +19,7 @@ Retrieve the sales dataset available at [Kaggle - Sample Sales Data](https://www
 - Create a heatmap to compare profit margins across products or categories.
 - Use color gradients to differentiate between high and low-margin items.
   
-<br>
+<hr>
 
 ### 2. Advanced Analysis
 Using the dataset from step (1), perform the following:
