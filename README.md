@@ -22,6 +22,9 @@
     <li>Line chart: Show monthly sales trends and seasonal peaks.</li>
     <li>Heatmap: Profit margins by category or product using color gradients.</li>
   </ul>
+  <br>
+<img src = "Tableau/Results/result -1.png">
+<br>
 
   <h3>2. Advanced Sales Analysis</h3>
   <ul>
