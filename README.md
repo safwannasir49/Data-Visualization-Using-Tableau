@@ -1,5 +1,5 @@
 
-<img src = "Tableau/Image.png" width=60%>
+<img src = "Tableau/Images/tabimg.png" height=60% width=100%>
 
 
 ## Problem Statement
